@@ -1873,7 +1873,7 @@ span.ad {
   top: 0; }
 
 #content {
-  margin-top: 102px; }
+  margin-top: 122px; }
 
 .headroom {
   transition: all 250ms ease-in-out; }
@@ -2087,6 +2087,11 @@ span.ad {
             
 
         }
+        .footer-bottom .icon-bar .er-btn img{
+          width:38px;
+          height:38px;
+
+        }
         .footer-bottom  .icons-box .er-wei{
             display:none;
             position: absolute;
@@ -2094,7 +2099,7 @@ span.ad {
             right: 45px;
             width: 150px;
             height: 150px;
-            background: url('../images/img_1.jpg');
+            background: url('/img_index/erweima.jpg');
             background-size: 100% 100%;
         }
 @media (max-width: 560px) {
