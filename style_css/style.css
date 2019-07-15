@@ -228,6 +228,9 @@ body {
   position: relative;
   text-align: center;
 }
+.indx-wrap .ph-box img{
+  width:100%;
+}
 .indx-wrap .member-box .ph-box .txt-box {
   position: absolute;
   top: 2px;
@@ -1977,6 +1980,9 @@ body {
   }
   .indx-wrap .ph-mao {
     position: relative;
+  }
+  .indx-wrap .ph-mao img{
+    width:100%;
   }
   .indx-wrap .ph-mao .content-box {
     position: absolute;

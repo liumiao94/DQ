@@ -1192,7 +1192,9 @@ button.close {
 
 @media (max-width: 767px) {
   .visible-xs {
-    display: block !important; }
+    display: block !important; 
+    width:100%;
+  }
   table.visible-xs {
     display: table !important; }
   tr.visible-xs {
