@@ -52,11 +52,11 @@
     }
     #btn-left{
       left:20px;
-      background-image:url(./style_css/img_index/left_ar.png);
+      background-image:url(left_ar.png);
     }
     #btn-right{
       right:20px;
-      background-image:url(./style_css/img_index/right_ar.png);
+      background-image:url(right_ar.png);
     }
     #btn-left:hover,#btn-right:hover{
       background-size:40px 70px
